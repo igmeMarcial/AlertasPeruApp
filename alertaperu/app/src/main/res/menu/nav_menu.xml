@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/it_alertaPeru"
+        android:icon="@drawable/ic_alerta_peru"
+        android:title="Alerta Peru"/>
+
+    <item
+        android:id="@+id/it_comunidad"
+        android:icon="@drawable/ic_comunidad"
+        android:title="Comunidad"/>
+
+    <item
+        android:id="@+id/it_mapa"
+        android:icon="@drawable/mapa"
+        android:title="Mapa"/>
+
+    <item
+        android:id="@+id/it_numero_util"
+        android:icon="@drawable/ic_telefono"
+        android:title="Números útiles"/>
+
+</menu>
