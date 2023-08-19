@@ -2,4 +2,13 @@
     <string name="app_name">alertaperu</string>
 
     <string name="alerta_peru">Alerta Perú</string>
+    <string name="comunidad">Comunidad</string>
+
+    <string name="database_name">AlertaPeruDB</string>
+    <string name="tit_createDenuncia">Crear Denuncia</string>
+
+    <string name="google_app_id">1:355833872191:android:a34395ccb4b40e69475d8a</string>
+
+    <string name="content_description_image_profile">Profile image</string>
+    <string name="content_description_logo_image">Logo image</string>
 </resources>

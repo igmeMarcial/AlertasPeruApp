@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799339500845",
+    "project_id": "alertaperu-ec678",
+    "storage_bucket": "alertaperu-ec678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799339500845:android:c562bba4f305ff113e2fa4",
+        "android_client_info": {
+          "package_name": "com.example.alertaperu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799339500845-huj0re28a8ttsdr6vngem684k8pn9mi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDg6zGcBHiihkvLyN_KUk1V3mLkpoxUxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799339500845-huj0re28a8ttsdr6vngem684k8pn9mi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

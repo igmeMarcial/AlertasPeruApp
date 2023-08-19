@@ -2,4 +2,26 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0000FF</color>
+
+    <color name="colorPrimary">#FBB034</color>
+    <color name="colorPrimaryDark">#FFDD00</color>
+    <color name="colorAccent">#FBB034</color>
+    <color name="colorText">#504F60</color>
+
+    <color name="primary">#F15E5E</color>
+    <color name="primary_dark">#C04B4B</color>
+    <color name="primary_light">#F89E9D</color>
+    <color name="secondary">#D3D4D6</color>
+    <color name="secondary_dark">#C5CAD0</color>
+    <color name="dark">#191B30</color>
+
+    <!-- background -->
+    <color name="modal_dark">#7E191B30</color>
+    <color name="modal_light">#60424242</color>
+
+    <!-- text -->
+    <color name="text">#242A33</color>
+    <color name="placeholder_text">#A4A9B3</color>
+    <color name="favorite_text">#FAC6C6</color>
 </resources>
